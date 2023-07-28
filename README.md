@@ -1,4 +1,4 @@
-# Attiny85 Uploader
+# Attiny Uploader
 
 [Buy on Tindie](https://www.tindie.com/products/chris_maker_/attiny85-uploader/)
 
