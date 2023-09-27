@@ -1,6 +1,10 @@
 # ICSP
 [Buy on Tindie](https://www.tindie.com/products/chris_maker_/attiny85-uploader/)
 
+Con questo shield è possibile caricare il bootloader Arduino su microcontrollori come l'Atmega329P (Arduino Uno) o quelli della famiglia Attiny, è anche possibile
+caricare il tuo sketch senza bisogno di interfaccia USB/UART.
+
+
 Uploader per Attiny85. Con questo shield per Arduino UNO è possibile programmare il famoso microcontrollore Attiny85 sia in formato DIP che SOP. 
 
 - Ti basterà caricare su una scheda Arduino UNO lo sketch **ArduinoISP** che trovi nella sezione **Esempi** 
