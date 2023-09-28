@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/packa
 - Fatto questo non ti resta che caricare il tuo sketch dal menu **Sketch** cliccando su **Carica tramite programmatore**
 
 
-Provalo con [Dice keychaine](https://www.tindie.com/products/chris_maker_/attiny85-keychain-dice/)
+Provalo con [Dice keychain](https://www.tindie.com/products/chris_maker_/attiny85-keychain-dice/)
 
 
 # Contribute
