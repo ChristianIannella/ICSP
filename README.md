@@ -7,6 +7,7 @@ Prima di tutto dovrai caricare su una scheda Arduino UNO lo sketch **ArduinoISP*
 
 
 Ecco il pinout della porta ICSP e il pinout di alcuni uC.
+
 ![ICSP Pinout](https://github.com/ChristianIannella/ICSP/blob/main/ICSP%20Pinout.png)
 
 
