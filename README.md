@@ -3,12 +3,17 @@
 
 Con questo shield è possibile caricare il bootloader Arduino su microcontrollori come l'Atmega329P (Arduino Uno) o quelli della famiglia Attiny, è anche possibile
 caricare il tuo sketch senza bisogno di interfaccia USB/UART.
+Prima di tutto dovrai caricare su una scheda Arduino UNO lo sketch **ArduinoISP** che trovi nella sezione **Esempi** 
+
+
+Ecco il pinout della porta ICSP e il pinout di alcuni uC.
+![ICSP Pinout](https://github.com/ChristianIannella/ICSP/blob/main/ICSP%20Pinout.png)
 
 
 Uploader per Attiny85. Con questo shield per Arduino UNO è possibile programmare il famoso microcontrollore Attiny85 sia in formato DIP che SOP. 
 
-- Ti basterà caricare su una scheda Arduino UNO lo sketch **ArduinoISP** che trovi nella sezione **Esempi** 
-- Ora vai in **Impostazioni** e aggiungi il seguente URL nell'apposito spazio: 
+
+- Vai in **Impostazioni** e aggiungi il seguente URL nell'apposito spazio: 
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
 - Dal **Gestore schede** cerca "Attiny" e installa i files.
 - Dal menu **Strumenti** seleziona la scheda **Attiny25/45/85**.
