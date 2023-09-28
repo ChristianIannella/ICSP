@@ -11,10 +11,10 @@ Ecco il pinout della porta ICSP e il pinout di alcuni uC.
 ![ICSP Pinout](https://github.com/ChristianIannella/ICSP/blob/main/ICSP%20Pinout.png)
 
 
-#ATMEGA328P
+# ATMEGA328P
 
 
-#ATTINY85
+# ATTINY85
 
 - Vai in **Impostazioni** e aggiungi il seguente URL nell'apposito spazio: 
 https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/package_damellis_attiny_index.json
@@ -30,12 +30,3 @@ Lo shield dispone di zoccolo per programmare il formato DIP e pinza per formato 
 Provalo con [Dice keychaine](https://www.tindie.com/products/chris_maker_/attiny85-keychain-dice/)
 
 
-
-
-
-
-The shield has a socket for programming the DIP format and a clamp for the SOP format, on board there are three LEDs: **Power**, **Programming** and **Error**.
-In addition there is a 4-pin connector connected to **5V**, **D3**, **D4** and **GND**.
-
-
-Try it to program the [Dice keychaine](https://www.tindie.com/products/chris_maker_/attiny85-keychain-dice/)
