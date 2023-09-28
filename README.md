@@ -4,6 +4,7 @@
 Con questo shield è possibile caricare il bootloader Arduino su microcontrollori come l'Atmega329P (Arduino Uno) o quelli della famiglia Attiny, è anche possibile
 caricare il tuo sketch senza bisogno di interfaccia USB/UART.
 Lo shield dispone di zoccolo per programmare un Attiny85 DIP, a bordo sono presenti tre led di segnalazione: **Power**, **Programming** e **Error**. 
+
 Prima di tutto dovrai caricare su una scheda Arduino UNO lo sketch **ArduinoISP** che trovi nella sezione **Esempi** 
 
 
@@ -36,3 +37,8 @@ https://raw.githubusercontent.com/damellis/attiny/ide-1.6.x-boards-manager/packa
 Provalo con [Dice keychaine](https://www.tindie.com/products/chris_maker_/attiny85-keychain-dice/)
 
 
+# Contribute
+Please, feel free to contribute.
+
+# Author
+(c) 2023 Iannella Christian
