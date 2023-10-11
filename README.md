@@ -4,8 +4,7 @@
 <picture><a href="https://www.tindie.com/stores/chris_maker_/?ref=offsite_badges&utm_source=sellers_chris_maker_&utm_medium=badges&utm_campaign=badge_medium"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a><picture>
 
 
-![ICSP Iannella Christian]()https://github.com/ChristianIannella/ICSP/blob/main/Media/IMG_3565.JPG
-
+![ICSP Iannella Christian](https://github.com/ChristianIannella/ICSP/blob/main/Media/IMG_3565.JPG)
 
 Con questo shield è possibile caricare il bootloader Arduino su microcontrollori come l'Atmega329P (Arduino Uno) o quelli della famiglia Attiny, è anche possibile
 caricare il tuo sketch senza bisogno di interfaccia USB/UART.
